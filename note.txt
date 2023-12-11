@@ -1,0 +1,38 @@
+CDN-Content Delivery Network
+This is used to transfer the contents of one webpage to another
+
+Notes :
+vh(view port height) - it's a unit of measurement
+1vh = 19.2px
+
+pseudo class
+------------
+-as a keyword added to a selector that specifies a special state of the selected elements.
+Eg:hover,visited,checked,active
+
+
+Difference b/w section tags and div tags
+----------------------------------------------
+position : absolute
+correspomds to the parent tags
+position : relative
+positioned relative to its normal position
+-----------------------------------------------
+Descendant selectors
+-eg: .images:hover #shape{
+     bottom:70px;
+}
+
+CSS Grid System
+---------------
+- element becomes a grid container when its display property is set to grid or inline-grid.
+
+- The column-gap property sets the gap between the columns
+Eg:column-gap: 2rem;
+
+- The row-gap property sets the gap between the rows
+Eg:row-gap:2rem;
+
+
+grid-template-column:1frame =225px
+1rem=16px
